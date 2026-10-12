@@ -1,0 +1,16 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.gradio/
+
+
+# Test images used during development
+1.jpg
+2.jpg
+23.png
+5.png
+6-Number.png
+8.jpg
+88.jpg
